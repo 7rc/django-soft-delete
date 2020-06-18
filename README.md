@@ -1,11 +1,6 @@
 Django Soft Delete
 ============
 
-[![Build Status](https://travis-ci.org/collabo-br/django-soft-delete.svg?branch=master)](https://travis-ci.org/collabo-br/django-soft-delete)
-[![codecov](https://codecov.io/gh/collabo-br/django-soft-delete/branch/master/graph/badge.svg)](https://codecov.io/gh/collabo-br/django-soft-delete)
-
-
-
 Django Soft Delete gives Django models the ability to soft delete(logical delete). it also gives the ability to restore or undelete soft-deleted instances.
 
 Basic usage
